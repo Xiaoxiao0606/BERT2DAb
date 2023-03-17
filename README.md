@@ -14,7 +14,7 @@ Our project is based on pytorch=1.11.0 (python version = 3.8.0), transformers=4.
 # Download
 The pre-trained model and the vocabulary will be downloaded by run the following commands.
 
-BERT2DAb_H:
+## BERT2DAb_H:
 ```
   $  import torch
   $  from transformers import BertTokenizer,BertModel
@@ -23,7 +23,7 @@ BERT2DAb_H:
   $  model_H = BertModel.from_pretrained("w139700701/BERT2DAb_H")
 ```
 
-BERT2DAb_L:
+## BERT2DAb_L:
 ```
   $  import torch
   $  from transformers import BertTokenizer,BertModel
