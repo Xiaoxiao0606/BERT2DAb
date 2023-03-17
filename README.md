@@ -11,7 +11,7 @@ Our project is based on pytorch=1.11.0 (python version = 3.8.0), transformers=4.
 ```
 
 
-#Download
+# Download
 The pre-trained model and the vocabulary will be downloaded by run the following commands.
 
 BERT2DAb_H:
@@ -33,7 +33,7 @@ BERT2DAb_L:
 ```
 
 
-#Contact Information
+# Contact Information
 For help or suggestions for BERT2DAb, please concact Xiaowei Luo(lxw920701@163.com).
 
 
