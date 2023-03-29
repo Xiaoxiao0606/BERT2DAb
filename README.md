@@ -1,7 +1,7 @@
 # BERT2DAb
 This repository provides the code for BERT2DAb, a pre-trained model for antibody representation based on amino acid sequences and 2D-structure. This project is done by Information Center, Academy of Miliary Medical Sciences.
 
-Installation
+# Installation
 
 Our project is based on pytorch=1.11.0 (python version = 3.8.0), transformers=4.18.0. The environment can be installed by following instructions:
 ```
@@ -11,7 +11,7 @@ Our project is based on pytorch=1.11.0 (python version = 3.8.0), transformers=4.
 ```
 
 
-# Download
+# Download for 
 The pre-trained model and the vocabulary will be downloaded by run the following commands.
 
 ## BERT2DAb_H:
